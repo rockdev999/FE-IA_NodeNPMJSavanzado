@@ -1,0 +1,16 @@
+{
+  "name": "fe-ia_nodenpmjsavanzado",
+  "version": "1.0.0",
+  "main": "index.js",
+   "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "planetas": "node index.js",
+    "agregar": "node agregarPlaneta.js",
+    "listar": "node listarPlanetas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
